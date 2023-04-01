@@ -5,8 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import com.sam.employeeapi.controller.UserController;
 
-import static org.junit.Assert.*;
-
+import static org.junit.Assert.assertEquals;
 
 @SpringBootTest
 class EmployeeApiApplicationTests {
